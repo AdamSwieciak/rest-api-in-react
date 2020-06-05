@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/rest-api-in-react/static/css/main.0e80d763.chunk.css",
+    "main.js": "/rest-api-in-react/static/js/main.191d92dd.chunk.js",
+    "main.js.map": "/rest-api-in-react/static/js/main.191d92dd.chunk.js.map",
+    "runtime-main.js": "/rest-api-in-react/static/js/runtime-main.90257abb.js",
+    "runtime-main.js.map": "/rest-api-in-react/static/js/runtime-main.90257abb.js.map",
+    "static/js/2.82b13777.chunk.js": "/rest-api-in-react/static/js/2.82b13777.chunk.js",
+    "static/js/2.82b13777.chunk.js.map": "/rest-api-in-react/static/js/2.82b13777.chunk.js.map",
+    "index.html": "/rest-api-in-react/index.html",
+    "precache-manifest.2a59fe23a8430804d27345761832acb9.js": "/rest-api-in-react/precache-manifest.2a59fe23a8430804d27345761832acb9.js",
+    "service-worker.js": "/rest-api-in-react/service-worker.js",
+    "static/css/main.0e80d763.chunk.css.map": "/rest-api-in-react/static/css/main.0e80d763.chunk.css.map",
+    "static/js/2.82b13777.chunk.js.LICENSE.txt": "/rest-api-in-react/static/js/2.82b13777.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.90257abb.js",
+    "static/js/2.82b13777.chunk.js",
+    "static/css/main.0e80d763.chunk.css",
+    "static/js/main.191d92dd.chunk.js"
+  ]
+}
